@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "simple-node-rest",
+  "version": "1.0.0",
+  "description": "it is test hello-world app of nodejs-express rest api",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "js"
+  ],
+  "author": "rohan joshi",
+  "license": "MIT"
+}
